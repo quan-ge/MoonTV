@@ -84,6 +84,74 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
+    },
+    "qgbaiduyun": {
+      "api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list",
+      "name": "百度云资源"
+    },
+    "qgwujin": {
+      "api": "https://api.wujinapi.com/api.php/provide/vod/?ac=list",
+      "name": "百度云资源资源"
+    },
+    "qgheimuer": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod/",
+      "name": "黑木耳"
+    },
+    "qgwolong": {
+      "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+      "name": "卧龙资源"
+    },
+    "qgsuoni": {
+      "api": "https://suoniapi.com/api.php/provide/vod/",
+      "name": "索尼资源"
+    },
+    "qghongnui": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "name": "红牛资源"
+    },
+    "qgfeifan": {
+      "api": "https://cj.ffzyapi.com/api.php/provide/vod/",
+      "name": "非凡资源"
+    },
+    "qglingzi": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "量子资源"
+    },
+    "qgqungsu": {
+      "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+      "name": "光速资源"
+    },
+    "qgck": {
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "ck资源"
+    },
+    "qgshandian": {
+      "api": "https://sdzyapi.com/api.php/provide/vod",
+      "name": "闪电资源"
+    },
+    "qgwujin": {
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "name": "无尽资源"
+    },
+    "qghuohu": {
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "name": "火狐资源"
+    },
+    "qghuya": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "name": "虎牙资源"
+    },
+    "qgyinghua": {
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "name": "樱花资源"
+    },
+    "qgsiquan": {
+      "api": "https://pg.fenwe078.cf/api.php/provide/vod/",
+      "name": "四圈资源"
+    },
+    "qgheimuer2": {
+      "api": "https://json-api.heimuer.xyz/api/list",
+      "name": "黑木耳"
     }
   }
 }
