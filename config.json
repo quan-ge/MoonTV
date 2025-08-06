@@ -152,6 +152,14 @@
     "qgheimuer2": {
       "api": "https://json-api.heimuer.xyz/api/list",
       "name": "黑木耳"
+    },
+    "qgxinlang": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "name": "新浪资源"
+    },
+    "qgjinying": {
+      "api": "https://jyzyapi.com/provide/vod/",
+      "name": "金鹰资源"
     }
   }
 }
