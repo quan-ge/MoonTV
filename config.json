@@ -182,6 +182,11 @@
       "name": "最新",
       "type": "tv",
       "query": "最新"
+    },
+    {
+      "name": "成人",
+      "type": "movie",
+      "query": "成人"
     }
   ]
 }
