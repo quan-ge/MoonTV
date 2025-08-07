@@ -164,14 +164,24 @@
   },
   "custom_category": [
     {
-      "name": "动漫",
+      "name": "日漫",
       "type": "tv",
-      "query": "动漫"
+      "query": "日本动画"
     },
     {
       "name": "豆瓣高分",
       "type": "movie",
       "query": "豆瓣高分"
+    },
+    {
+      "name": "科幻",
+      "type": "movie",
+      "query": "科幻"
+    },
+    {
+      "name": "最新",
+      "type": "tv",
+      "query": "最新"
     }
   ]
 }
