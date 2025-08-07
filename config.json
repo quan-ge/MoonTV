@@ -136,7 +136,7 @@
     "qghuohu": {
       "api": "https://hhzyapi.com/api.php/provide/vod/",
       "name": "火狐资源"
-    }，
+    },
     "qghuya": {
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "name": "虎牙资源"
@@ -161,7 +161,7 @@
       "api": "https://jyzyapi.com/provide/vod/",
       "name": "金鹰资源"
     }
-  }，
+  },
   "custom_category": [
     {
       "name": "动漫",
