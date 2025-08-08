@@ -186,7 +186,7 @@
     },
     {
       "name": "热门",
-      "type": "movie",
+      "type": "tv",
       "query": "热门"
     },
     {
@@ -208,6 +208,11 @@
       "name": "国产",
       "type": "tv",
       "query": "国产剧"
+    },
+    {
+      "name": "综艺",
+      "type": "tv",
+      "query": "综艺"
     }
   ]
 }
